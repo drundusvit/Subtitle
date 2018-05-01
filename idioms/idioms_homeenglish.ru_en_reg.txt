@@ -1,0 +1,1066 @@
+\ a\ [a-z\ ]\{0,15\}\ *bit\ 
+\ a\ [a-z\ ]\{0,15\}\ *built\ 
+\ a\ [a-z\ ]\{0,15\}\ *great\ [a-z\ ]\{0,15\}\ *deal\ [a-z\ ]\{0,15\}\ *of\ 
+\ a\ [a-z\ ]\{0,15\}\ *great\ [a-z\ ]\{0,15\}\ *number\ [a-z\ ]\{0,15\}\ *of\ 
+\ a\ [a-z\ ]\{0,15\}\ *little\ [a-z\ ]\{0,15\}\ *bit\ 
+\ a\ [a-z\ ]\{0,15\}\ *little\ [a-z\ ]\{0,15\}\ *more\ 
+\ a\ [a-z\ ]\{0,15\}\ *long\ [a-z\ ]\{0,15\}\ *time\ [a-z\ ]\{0,15\}\ *ago\ 
+\ a\ [a-z\ ]\{0,15\}\ *lot\ [a-z\ ]\{0,15\}\ *of\ 
+\ a\ [a-z\ ]\{0,15\}\ *lot\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *egg\ 
+\ a\ [a-z\ ]\{0,15\}\ *very\ 
+\ about\ [a-z\ ]\{0,15\}\ *as\ [a-z\ ]\{0,15\}\ *complete\ [a-z\ ]\{0,15\}\ *as\ 
+\ about\ [a-z\ ]\{0,15\}\ *how\ 
+\ about\ [a-z\ ]\{0,15\}\ *then\ 
+\ about\ [a-z\ ]\{0,15\}\ *where\ 
+\ about\ [a-z\ ]\{0,15\}\ *face\ 
+\ above\ [a-z\ ]\{0,15\}\ *all\ 
+\ above\ [a-z\ ]\{0,15\}\ *ground\ 
+\ above\ [a-z\ ]\{0,15\}\ *board\ 
+\ accord\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *heartly\ [a-z\ ]\{0,15\}\ *welcom\ 
+\ account\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *by\ 
+\ account\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *over\ 
+\ across\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *board\ 
+\ act\ [a-z\ ]\{0,15\}\ *amiss\ 
+\ act\ [a-z\ ]\{0,15\}\ *for\ 
+\ act\ [a-z\ ]\{0,15\}\ *like\ 
+\ add\ [a-z\ ]\{0,15\}\ *fuel\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *flame\ 
+\ add\ [a-z\ ]\{0,15\}\ *on\ 
+\ addressing\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *issues\ 
+\ admission\ [a-z\ ]\{0,15\}\ *test\ 
+\ advan”e\ [a-z\ ]\{0,15\}\ *guard\ 
+\ affected\ [a-z\ ]\{0,15\}\ *by\ [a-z\ ]\{0,15\}\ *cold\ 
+\ after\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *fashion\ [a-z\ ]\{0,15\}\ *of\ 
+\ after\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *short\ [a-z\ ]\{0,15\}\ *time\ 
+\ after\ [a-z\ ]\{0,15\}\ *all\ 
+\ after\ [a-z\ ]\{0,15\}\ *game\ 
+\ against\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *face\ [a-z\ ]\{0,15\}\ *of\ 
+\ against\ [a-z\ ]\{0,15\}\ *time\ 
+\ ahead\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *time\ 
+\ aim\ [a-z\ ]\{0,15\}\ *high\ 
+\ alarm\ [a-z\ ]\{0,15\}\ *clock\ 
+\ all\ [a-z\ ]\{0,15\}\ *alone\ 
+\ all\ [a-z\ ]\{0,15\}\ *along\ 
+\ all\ [a-z\ ]\{0,15\}\ *around\ 
+\ all\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *once\ 
+\ all\ [a-z\ ]\{0,15\}\ *but\ 
+\ all\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *nothing\ 
+\ all\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *all\ 
+\ all\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *sudden\ 
+\ all\ [a-z\ ]\{0,15\}\ *out\ 
+\ all\ [a-z\ ]\{0,15\}\ *over\ 
+\ all\ [a-z\ ]\{0,15\}\ *over\ [a-z\ ]\{0,15\}\ *again\ 
+\ all\ [a-z\ ]\{0,15\}\ *right\ 
+\ all\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *better\ 
+\ all\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *more\ 
+\ all\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *same\ 
+\ along\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *lines\ 
+\ along\ [a-z\ ]\{0,15\}\ *with\ 
+\ and\ [a-z\ ]\{0,15\}\ *no\ [a-z\ ]\{0,15\}\ *mistake\ 
+\ and\ [a-z\ ]\{0,15\}\ *so\ [a-z\ ]\{0,15\}\ *forth\ 
+\ and\ [a-z\ ]\{0,15\}\ *so\ [a-z\ ]\{0,15\}\ *on\ 
+\ and\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *like\ 
+\ any\ [a-z\ ]\{0,15\}\ *longer\ 
+\ any\ [a-z\ ]\{0,15\}\ *more\ 
+\ any\ [a-z\ ]\{0,15\}\ *of\ 
+\ any\ [a-z\ ]\{0,15\}\ *one\ 
+\ any\ [a-z\ ]\{0,15\}\ *time\ 
+\ apple\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *discord\ 
+\ apply\ [a-z\ ]\{0,15\}\ *for\ 
+\ around\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *clock\ 
+\ around\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *world\ 
+\ as\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *matter\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *fact\ 
+\ as\ [a-z\ ]\{0,15\}\ *against\ 
+\ as\ [a-z\ ]\{0,15\}\ *early\ [a-z\ ]\{0,15\}\ *as\ 
+\ as\ [a-z\ ]\{0,15\}\ *far\ [a-z\ ]\{0,15\}\ *as\ 
+\ as\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *the\ 
+\ as\ [a-z\ ]\{0,15\}\ *from\ 
+\ as\ [a-z\ ]\{0,15\}\ *if\ 
+\ as\ [a-z\ ]\{0,15\}\ *is\ [a-z\ ]\{0,15\}\ *also\ 
+\ as\ [a-z\ ]\{0,15\}\ *it\ [a-z\ ]\{0,15\}\ *does\ 
+\ as\ [a-z\ ]\{0,15\}\ *late\ [a-z\ ]\{0,15\}\ *as\ 
+\ as\ [a-z\ ]\{0,15\}\ *likely\ [a-z\ ]\{0,15\}\ *as\ [a-z\ ]\{0,15\}\ *not\ 
+\ as\ [a-z\ ]\{0,15\}\ *little\ [a-z\ ]\{0,15\}\ *as\ 
+\ as\ [a-z\ ]\{0,15\}\ *many\ [a-z\ ]\{0,15\}\ *as\ 
+\ as\ [a-z\ ]\{0,15\}\ *much\ [a-z\ ]\{0,15\}\ *as\ 
+\ as\ [a-z\ ]\{0,15\}\ *of\ 
+\ as\ [a-z\ ]\{0,15\}\ *often\ [a-z\ ]\{0,15\}\ *as\ [a-z\ ]\{0,15\}\ *not\ 
+\ as\ [a-z\ ]\{0,15\}\ *regards\ 
+\ as\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *who\ 
+\ as\ [a-z\ ]\{0,15\}\ *well\ 
+\ as\ [a-z\ ]\{0,15\}\ *what\ 
+\ as\ [a-z\ ]\{0,15\}\ *with\ 
+\ as\ [a-z\ ]\{0,15\}\ *yet\ 
+\ at\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *blow\ 
+\ at\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *glance\ 
+\ at\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *guess\ 
+\ at\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *rate\ [a-z\ ]\{0,15\}\ *of\ 
+\ at\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *time\ 
+\ at\ [a-z\ ]\{0,15\}\ *all\ 
+\ at\ [a-z\ ]\{0,15\}\ *all\ [a-z\ ]\{0,15\}\ *points\ 
+\ at\ [a-z\ ]\{0,15\}\ *any\ [a-z\ ]\{0,15\}\ *cost\ 
+\ at\ [a-z\ ]\{0,15\}\ *any\ [a-z\ ]\{0,15\}\ *hand\ 
+\ at\ [a-z\ ]\{0,15\}\ *best\ 
+\ at\ [a-z\ ]\{0,15\}\ *first\ 
+\ at\ [a-z\ ]\{0,15\}\ *hand\ 
+\ at\ [a-z\ ]\{0,15\}\ *last\ 
+\ at\ [a-z\ ]\{0,15\}\ *least\ 
+\ at\ [a-z\ ]\{0,15\}\ *most\ 
+\ at\ [a-z\ ]\{0,15\}\ *once\ 
+\ at\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *end\ 
+\ at\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *time\ 
+\ at\ [a-z\ ]\{0,15\}\ *will\ 
+\ back\ [a-z\ ]\{0,15\}\ *along\ [a-z\ ]\{0,15\}\ *the\ 
+\ back\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *forth\ 
+\ back\ [a-z\ ]\{0,15\}\ *away\ 
+\ back\ [a-z\ ]\{0,15\}\ *down\ 
+\ back\ [a-z\ ]\{0,15\}\ *into\ 
+\ back\ [a-z\ ]\{0,15\}\ *off\ 
+\ back\ [a-z\ ]\{0,15\}\ *out\ 
+\ back\ [a-z\ ]\{0,15\}\ *talk\ 
+\ back\ [a-z\ ]\{0,15\}\ *up\ 
+\ bad\ [a-z\ ]\{0,15\}\ *cold\ 
+\ bad\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *worse\ 
+\ baker\ [a-z\ ]\{0,15\}\ *dozen\ 
+\ balance\ [a-z\ ]\{0,15\}\ *out\ 
+\ bald\ [a-z\ ]\{0,15\}\ *apot\ 
+\ ball\ [a-z\ ]\{0,15\}\ *park\ 
+\ be\ [a-z\ ]\{0,15\}\ *about\ [a-z\ ]\{0,15\}\ *to\ 
+\ be\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *pains\ 
+\ be\ [a-z\ ]\{0,15\}\ *back\ 
+\ be\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *use\ 
+\ be\ [a-z\ ]\{0,15\}\ *half\ [a-z\ ]\{0,15\}\ *way\ [a-z\ ]\{0,15\}\ *between\ 
+\ be\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *effect\ 
+\ be\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *error\ 
+\ be\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *place\ 
+\ be\ [a-z\ ]\{0,15\}\ *off\ 
+\ be\ [a-z\ ]\{0,15\}\ *off\ [a-z\ ]\{0,15\}\ *by\ 
+\ be\ [a-z\ ]\{0,15\}\ *on\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *make\ 
+\ be\ [a-z\ ]\{0,15\}\ *out\ 
+\ be\ [a-z\ ]\{0,15\}\ *out\ [a-z\ ]\{0,15\}\ *to\ 
+\ be\ [a-z\ ]\{0,15\}\ *over\ 
+\ be\ [a-z\ ]\{0,15\}\ *up\ 
+\ be\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ beat\ [a-z\ ]\{0,15\}\ *back\ 
+\ beat\ [a-z\ ]\{0,15\}\ *off\ 
+\ beat\ [a-z\ ]\{0,15\}\ *up\ 
+\ beef\ [a-z\ ]\{0,15\}\ *up\ 
+\ bell\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *whistle\ 
+\ beside\ [a-z\ ]\{0,15\}\ *oneself\ 
+\ beside\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *point\ 
+\ beside\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *question\ 
+\ best\ [a-z\ ]\{0,15\}\ *regards\ 
+\ best\ [a-z\ ]\{0,15\}\ *wishes\ 
+\ between\ [a-z\ ]\{0,15\}\ *what\ 
+\ beyond\ [a-z\ ]\{0,15\}\ *all\ [a-z\ ]\{0,15\}\ *doubt\ 
+\ beyond\ [a-z\ ]\{0,15\}\ *belief\ 
+\ beyond\ [a-z\ ]\{0,15\}\ *hope\ 
+\ big\ [a-z\ ]\{0,15\}\ *game\ 
+\ big\ [a-z\ ]\{0,15\}\ *shot\ 
+\ big\ [a-z\ ]\{0,15\}\ *time\ 
+\ bit\ [a-z\ ]\{0,15\}\ *by\ [a-z\ ]\{0,15\}\ *bit\ 
+\ bitter\ [a-z\ ]\{0,15\}\ *end\ 
+\ black\ [a-z\ ]\{0,15\}\ *board\ 
+\ black\ [a-z\ ]\{0,15\}\ *eye\ 
+\ black\ [a-z\ ]\{0,15\}\ *out\ 
+\ black\ [a-z\ ]\{0,15\}\ *sheep\ 
+\ block\ [a-z\ ]\{0,15\}\ *letter\ 
+\ blow\ [a-z\ ]\{0,15\}\ *out\ 
+\ blow\ [a-z\ ]\{0,15\}\ *up\ 
+\ book\ [a-z\ ]\{0,15\}\ *keeper\ 
+\ bound\ [a-z\ ]\{0,15\}\ *back\ 
+\ bound\ [a-z\ ]\{0,15\}\ *for\ 
+\ bow\ [a-z\ ]\{0,15\}\ *down\ 
+\ bow\ [a-z\ ]\{0,15\}\ *out\ 
+\ bowl\ [a-z\ ]\{0,15\}\ *out\ 
+\ branch\ [a-z\ ]\{0,15\}\ *house\ 
+\ branch\ [a-z\ ]\{0,15\}\ *off\ 
+\ break\ [a-z\ ]\{0,15\}\ *down\ 
+\ break\ [a-z\ ]\{0,15\}\ *in\ 
+\ break\ [a-z\ ]\{0,15\}\ *into\ 
+\ break\ [a-z\ ]\{0,15\}\ *line\ 
+\ break\ [a-z\ ]\{0,15\}\ *off\ 
+\ break\ [a-z\ ]\{0,15\}\ *open\ 
+\ break\ [a-z\ ]\{0,15\}\ *out\ 
+\ break\ [a-z\ ]\{0,15\}\ *up\ 
+\ bring\ [a-z\ ]\{0,15\}\ *about\ 
+\ bring\ [a-z\ ]\{0,15\}\ *forth\ 
+\ bring\ [a-z\ ]\{0,15\}\ *into\ [a-z\ ]\{0,15\}\ *play\ 
+\ bring\ [a-z\ ]\{0,15\}\ *into\ [a-z\ ]\{0,15\}\ *step\ 
+\ bring\ [a-z\ ]\{0,15\}\ *out\ 
+\ bring\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *light\ 
+\ bring\ [a-z\ ]\{0,15\}\ *under\ 
+\ bring\ [a-z\ ]\{0,15\}\ *up\ 
+\ broad\ [a-z\ ]\{0,15\}\ *hint\ 
+\ broad\ [a-z\ ]\{0,15\}\ *jump\ 
+\ burst\ [a-z\ ]\{0,15\}\ *into\ 
+\ burst\ [a-z\ ]\{0,15\}\ *out\ 
+\ but\ [a-z\ ]\{0,15\}\ *for\ 
+\ but\ [a-z\ ]\{0,15\}\ *then\ 
+\ by\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *by\ 
+\ by\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *large\ 
+\ by\ [a-z\ ]\{0,15\}\ *chance\ 
+\ by\ [a-z\ ]\{0,15\}\ *end\ [a-z\ ]\{0,15\}\ *of\ 
+\ by\ [a-z\ ]\{0,15\}\ *enough\ 
+\ by\ [a-z\ ]\{0,15\}\ *eye\ 
+\ by\ [a-z\ ]\{0,15\}\ *far\ 
+\ by\ [a-z\ ]\{0,15\}\ *half\ 
+\ by\ [a-z\ ]\{0,15\}\ *hand\ 
+\ by\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *way\ 
+\ by\ [a-z\ ]\{0,15\}\ *then\ 
+\ cabbage\ [a-z\ ]\{0,15\}\ *soup\ 
+\ call\ [a-z\ ]\{0,15\}\ *back\ 
+\ call\ [a-z\ ]\{0,15\}\ *bell\ 
+\ call\ [a-z\ ]\{0,15\}\ *into\ [a-z\ ]\{0,15\}\ *action\ 
+\ call\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *duty\ 
+\ call\ [a-z\ ]\{0,15\}\ *off\ 
+\ call\ [a-z\ ]\{0,15\}\ *on\ 
+\ calm\ [a-z\ ]\{0,15\}\ *down\ 
+\ camp\ [a-z\ ]\{0,15\}\ *out\ 
+\ cancel\ [a-z\ ]\{0,15\}\ *out\ 
+\ card\ [a-z\ ]\{0,15\}\ *face\ 
+\ carry\ [a-z\ ]\{0,15\}\ *away\ 
+\ carry\ [a-z\ ]\{0,15\}\ *forward\ 
+\ carry\ [a-z\ ]\{0,15\}\ *in\ 
+\ carry\ [a-z\ ]\{0,15\}\ *on\ 
+\ carry\ [a-z\ ]\{0,15\}\ *out\ 
+\ carry\ [a-z\ ]\{0,15\}\ *over\ 
+\ carry\ [a-z\ ]\{0,15\}\ *too\ [a-z\ ]\{0,15\}\ *far\ 
+\ case\ [a-z\ ]\{0,15\}\ *law\ 
+\ cast\ [a-z\ ]\{0,15\}\ *back\ 
+\ cast\ [a-z\ ]\{0,15\}\ *off\ 
+\ cast\ [a-z\ ]\{0,15\}\ *out\ 
+\ catch\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *chill\ 
+\ catch\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *cold\ 
+\ catch\ [a-z\ ]\{0,15\}\ *fire\ 
+\ catch\ [a-z\ ]\{0,15\}\ *one's\ [a-z\ ]\{0,15\}\ *eye\ 
+\ catch\ [a-z\ ]\{0,15\}\ *out\ 
+\ catch\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *(with)\ 
+\ cause\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *auction\ 
+\ chance\ [a-z\ ]\{0,15\}\ *on\ 
+\ change\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *worst\ 
+\ change\ [a-z\ ]\{0,15\}\ *hands\ 
+\ change\ [a-z\ ]\{0,15\}\ *into\ 
+\ change\ [a-z\ ]\{0,15\}\ *over\ 
+\ channel\ [a-z\ ]\{0,15\}\ *away\ 
+\ character\ [a-z\ ]\{0,15\}\ *set\ 
+\ charge\ [a-z\ ]\{0,15\}\ *back\ 
+\ chase\ [a-z\ ]\{0,15\}\ *away\ 
+\ check\ [a-z\ ]\{0,15\}\ *back\ 
+\ check\ [a-z\ ]\{0,15\}\ *in\ 
+\ check\ [a-z\ ]\{0,15\}\ *out\ 
+\ check\ [a-z\ ]\{0,15\}\ *up\ 
+\ check\ [a-z\ ]\{0,15\}\ *weight\ 
+\ cheer\ [a-z\ ]\{0,15\}\ *up\ 
+\ chiken\ [a-z\ ]\{0,15\}\ *out\ 
+\ chime\ [a-z\ ]\{0,15\}\ *in\ 
+\ chop\ [a-z\ ]\{0,15\}\ *down\ 
+\ chop\ [a-z\ ]\{0,15\}\ *off\ 
+\ chop\ [a-z\ ]\{0,15\}\ *up\ 
+\ city\ [a-z\ ]\{0,15\}\ *hall\ 
+\ clean\ [a-z\ ]\{0,15\}\ *up\ 
+\ clear\ [a-z\ ]\{0,15\}\ *eyed\ 
+\ clear\ [a-z\ ]\{0,15\}\ *up\ 
+\ clock\ [a-z\ ]\{0,15\}\ *wise\ 
+\ close\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *deal\ 
+\ close\ [a-z\ ]\{0,15\}\ *attention\ 
+\ close\ [a-z\ ]\{0,15\}\ *check\ 
+\ come\ [a-z\ ]\{0,15\}\ *about\ 
+\ come\ [a-z\ ]\{0,15\}\ *across\ 
+\ come\ [a-z\ ]\{0,15\}\ *along\ 
+\ come\ [a-z\ ]\{0,15\}\ *around\ 
+\ come\ [a-z\ ]\{0,15\}\ *at\ 
+\ come\ [a-z\ ]\{0,15\}\ *away\ 
+\ come\ [a-z\ ]\{0,15\}\ *back\ 
+\ come\ [a-z\ ]\{0,15\}\ *before\ 
+\ come\ [a-z\ ]\{0,15\}\ *by\ 
+\ come\ [a-z\ ]\{0,15\}\ *down\ 
+\ come\ [a-z\ ]\{0,15\}\ *for\ 
+\ come\ [a-z\ ]\{0,15\}\ *forward\ 
+\ come\ [a-z\ ]\{0,15\}\ *from\ 
+\ come\ [a-z\ ]\{0,15\}\ *in\ 
+\ come\ [a-z\ ]\{0,15\}\ *off\ 
+\ come\ [a-z\ ]\{0,15\}\ *on!\ 
+\ come\ [a-z\ ]\{0,15\}\ *out\ 
+\ come\ [a-z\ ]\{0,15\}\ *over\ 
+\ come\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *an\ [a-z\ ]\{0,15\}\ *end\ 
+\ come\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *terms\ 
+\ come\ [a-z\ ]\{0,15\}\ *true\ 
+\ come\ [a-z\ ]\{0,15\}\ *up\ 
+\ concerned\ [a-z\ ]\{0,15\}\ *about\ 
+\ confer\ [a-z\ ]\{0,15\}\ *with\ 
+\ contend\ [a-z\ ]\{0,15\}\ *that\ 
+\ cook\ [a-z\ ]\{0,15\}\ *up\ 
+\ cool\ [a-z\ ]\{0,15\}\ *cheek\ 
+\ cool\ [a-z\ ]\{0,15\}\ *down\ 
+\ count\ [a-z\ ]\{0,15\}\ *for\ 
+\ count\ [a-z\ ]\{0,15\}\ *on\ 
+\ count\ [a-z\ ]\{0,15\}\ *out\ 
+\ count\ [a-z\ ]\{0,15\}\ *up\ 
+\ cross\ [a-z\ ]\{0,15\}\ *border\ 
+\ cross\ [a-z\ ]\{0,15\}\ *country\ 
+\ cross\ [a-z\ ]\{0,15\}\ *off\ 
+\ cross\ [a-z\ ]\{0,15\}\ *road\ 
+\ cry\ [a-z\ ]\{0,15\}\ *down\ 
+\ cry\ [a-z\ ]\{0,15\}\ *for\ 
+\ cry\ [a-z\ ]\{0,15\}\ *off\ 
+\ cry\ [a-z\ ]\{0,15\}\ *out\ 
+\ cry\ [a-z\ ]\{0,15\}\ *up\ 
+\ cut\ [a-z\ ]\{0,15\}\ *above\ 
+\ cut\ [a-z\ ]\{0,15\}\ *away\ 
+\ cut\ [a-z\ ]\{0,15\}\ *back\ 
+\ cut\ [a-z\ ]\{0,15\}\ *classes\ 
+\ cut\ [a-z\ ]\{0,15\}\ *corners\ 
+\ cut\ [a-z\ ]\{0,15\}\ *down\ [a-z\ ]\{0,15\}\ *(on)\ 
+\ cut\ [a-z\ ]\{0,15\}\ *glass\ 
+\ cut\ [a-z\ ]\{0,15\}\ *off\ 
+\ cut\ [a-z\ ]\{0,15\}\ *out\ 
+\ cut\ [a-z\ ]\{0,15\}\ *short\ 
+\ cut\ [a-z\ ]\{0,15\}\ *up\ 
+\ daily\ [a-z\ ]\{0,15\}\ *wants\ 
+\ dark\ [a-z\ ]\{0,15\}\ *horse\ 
+\ dash\ [a-z\ ]\{0,15\}\ *out\ 
+\ day\ [a-z\ ]\{0,15\}\ *after\ [a-z\ ]\{0,15\}\ *day\ 
+\ day\ [a-z\ ]\{0,15\}\ *after\ [a-z\ ]\{0,15\}\ *tomorrow\ 
+\ day\ [a-z\ ]\{0,15\}\ *by\ [a-z\ ]\{0,15\}\ *day\ 
+\ day\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *day\ [a-z\ ]\{0,15\}\ *out\ 
+\ day\ [a-z\ ]\{0,15\}\ *off\ 
+\ dead\ [a-z\ ]\{0,15\}\ *against\ 
+\ dead\ [a-z\ ]\{0,15\}\ *duck\ 
+\ dead\ [a-z\ ]\{0,15\}\ *letter\ 
+\ dead\ [a-z\ ]\{0,15\}\ *lift\ 
+\ dead\ [a-z\ ]\{0,15\}\ *line\ 
+\ deal\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *blow\ 
+\ deal\ [a-z\ ]\{0,15\}\ *amiss\ 
+\ deal\ [a-z\ ]\{0,15\}\ *out\ 
+\ deal\ [a-z\ ]\{0,15\}\ *with\ 
+\ death\ [a-z\ ]\{0,15\}\ *house\ 
+\ debt\ [a-z\ ]\{0,15\}\ *load\ 
+\ decide\ [a-z\ ]\{0,15\}\ *against\ 
+\ deep\ [a-z\ ]\{0,15\}\ *space\ 
+\ desk\ [a-z\ ]\{0,15\}\ *book\ 
+\ die\ [a-z\ ]\{0,15\}\ *away\ 
+\ dig\ [a-z\ ]\{0,15\}\ *in\ 
+\ dig\ [a-z\ ]\{0,15\}\ *out\ 
+\ dig\ [a-z\ ]\{0,15\}\ *up\ 
+\ do\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *thing\ 
+\ do\ [a-z\ ]\{0,15\}\ *away\ 
+\ do\ [a-z\ ]\{0,15\}\ *not\ [a-z\ ]\{0,15\}\ *care\ 
+\ do\ [a-z\ ]\{0,15\}\ *over\ 
+\ do\ [a-z\ ]\{0,15\}\ *well\ 
+\ do\ [a-z\ ]\{0,15\}\ *with\ 
+\ do\ [a-z\ ]\{0,15\}\ *without\ 
+\ down\ [a-z\ ]\{0,15\}\ *payment\ 
+\ down\ [a-z\ ]\{0,15\}\ *pour\ 
+\ down\ [a-z\ ]\{0,15\}\ *time\ 
+\ draft\ [a-z\ ]\{0,15\}\ *only\ 
+\ drag\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *drop\ 
+\ draw\ [a-z\ ]\{0,15\}\ *in\ 
+\ draw\ [a-z\ ]\{0,15\}\ *on\ [a-z\ ]\{0,15\}\ *a\ 
+\ draw\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *do\ 
+\ dress\ [a-z\ ]\{0,15\}\ *up\ 
+\ drop\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *hint\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *doubt\ 
+\ drop\ [a-z\ ]\{0,15\}\ *across\ 
+\ duck\ [a-z\ ]\{0,15\}\ *blind\ 
+\ duck\ [a-z\ ]\{0,15\}\ *soup\ 
+\ each\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *all\ 
+\ each\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *every\ 
+\ each\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *which\ 
+\ each\ [a-z\ ]\{0,15\}\ *other\ 
+\ early\ [a-z\ ]\{0,15\}\ *days\ 
+\ early\ [a-z\ ]\{0,15\}\ *in\ 
+\ early\ [a-z\ ]\{0,15\}\ *on\ 
+\ easy\ [a-z\ ]\{0,15\}\ *does\ [a-z\ ]\{0,15\}\ *it\ 
+\ eat\ [a-z\ ]\{0,15\}\ *away\ 
+\ eat\ [a-z\ ]\{0,15\}\ *in\ 
+\ eat\ [a-z\ ]\{0,15\}\ *into\ 
+\ eat\ [a-z\ ]\{0,15\}\ *out\ 
+\ edge\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ egg\ [a-z\ ]\{0,15\}\ *on\ 
+\ egg\ [a-z\ ]\{0,15\}\ *white\ 
+\ either\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *or\ [a-z\ ]\{0,15\}\ *down\ 
+\ eke\ [a-z\ ]\{0,15\}\ *out\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *living\ 
+\ empty\ [a-z\ ]\{0,15\}\ *heanded\ 
+\ end\ [a-z\ ]\{0,15\}\ *point\ 
+\ end\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *end\ 
+\ end\ [a-z\ ]\{0,15\}\ *up\ 
+\ enjoy\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *right\ 
+\ enter\ [a-z\ ]\{0,15\}\ *up\ 
+\ enter\ [a-z\ ]\{0,15\}\ *upon\ 
+\ errand\ [a-z\ ]\{0,15\}\ *boy\ 
+\ even\ [a-z\ ]\{0,15\}\ *out\ 
+\ even\ [a-z\ ]\{0,15\}\ *so\ 
+\ ever\ [a-z\ ]\{0,15\}\ *after\ 
+\ ever\ [a-z\ ]\{0,15\}\ *so\ 
+\ every\ [a-z\ ]\{0,15\}\ *other\ 
+\ every\ [a-z\ ]\{0,15\}\ *so\ [a-z\ ]\{0,15\}\ *often\ 
+\ evil\ [a-z\ ]\{0,15\}\ *eye\ 
+\ eye\ [a-z\ ]\{0,15\}\ *witness\ 
+\ face\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *dilemma\ 
+\ face\ [a-z\ ]\{0,15\}\ *difficulties\ 
+\ face\ [a-z\ ]\{0,15\}\ *the\ 
+\ face\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *face\ 
+\ face\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ fact\ [a-z\ ]\{0,15\}\ *that\ 
+\ fade\ [a-z\ ]\{0,15\}\ *away\ 
+\ fade\ [a-z\ ]\{0,15\}\ *in\ 
+\ fade\ [a-z\ ]\{0,15\}\ *out\ 
+\ fall\ [a-z\ ]\{0,15\}\ *apart\ 
+\ fall\ [a-z\ ]\{0,15\}\ *back\ 
+\ fall\ [a-z\ ]\{0,15\}\ *down\ 
+\ fall\ [a-z\ ]\{0,15\}\ *into\ 
+\ fall\ [a-z\ ]\{0,15\}\ *off\ 
+\ fall\ [a-z\ ]\{0,15\}\ *out\ 
+\ fall\ [a-z\ ]\{0,15\}\ *over\ 
+\ fall\ [a-z\ ]\{0,15\}\ *within\ 
+\ far\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *away\ 
+\ far\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *by\ 
+\ far\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *near\ 
+\ far\ [a-z\ ]\{0,15\}\ *away\ 
+\ far\ [a-z\ ]\{0,15\}\ *cry\ 
+\ far\ [a-z\ ]\{0,15\}\ *cry\ [a-z\ ]\{0,15\}\ *from\ 
+\ far\ [a-z\ ]\{0,15\}\ *less\ 
+\ far\ [a-z\ ]\{0,15\}\ *more\ 
+\ far\ [a-z\ ]\{0,15\}\ *off\ 
+\ farm\ [a-z\ ]\{0,15\}\ *hand\ 
+\ fear\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *unknown\ 
+\ feel\ [a-z\ ]\{0,15\}\ *bad\ 
+\ feel\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ few\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *time\ 
+\ fifty-fifty\ 
+\ figure\ [a-z\ ]\{0,15\}\ *out\ 
+\ find\ [a-z\ ]\{0,15\}\ *no\ [a-z\ ]\{0,15\}\ *sense\ 
+\ find\ [a-z\ ]\{0,15\}\ *out\ 
+\ fire\ [a-z\ ]\{0,15\}\ *up\ 
+\ first\ [a-z\ ]\{0,15\}\ *go\ 
+\ first\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *all\ 
+\ fish\ [a-z\ ]\{0,15\}\ *for\ 
+\ fish\ [a-z\ ]\{0,15\}\ *out\ [a-z\ ]\{0,15\}\ *of\ 
+\ fix\ [a-z\ ]\{0,15\}\ *out\ 
+\ fix\ [a-z\ ]\{0,15\}\ *up\ 
+\ flag\ [a-z\ ]\{0,15\}\ *down\ 
+\ fly\ [a-z\ ]\{0,15\}\ *away\ 
+\ fly\ [a-z\ ]\{0,15\}\ *off\ 
+\ fly\ [a-z\ ]\{0,15\}\ *open\ 
+\ fog\ [a-z\ ]\{0,15\}\ *up\ 
+\ for\ [a-z\ ]\{0,15\}\ *about\ 
+\ for\ [a-z\ ]\{0,15\}\ *all\ [a-z\ ]\{0,15\}\ *that\ 
+\ for\ [a-z\ ]\{0,15\}\ *all\ [a-z\ ]\{0,15\}\ *we\ [a-z\ ]\{0,15\}\ *know\ 
+\ for\ [a-z\ ]\{0,15\}\ *around\ 
+\ for\ [a-z\ ]\{0,15\}\ *as\ [a-z\ ]\{0,15\}\ *long\ [a-z\ ]\{0,15\}\ *as\ 
+\ for\ [a-z\ ]\{0,15\}\ *ever\ 
+\ for\ [a-z\ ]\{0,15\}\ *every\ [a-z\ ]\{0,15\}\ *two\ 
+\ for\ [a-z\ ]\{0,15\}\ *free\ 
+\ for\ [a-z\ ]\{0,15\}\ *sure\ 
+\ for\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *best\ 
+\ for\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *rest\ 
+\ for\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ for\ [a-z\ ]\{0,15\}\ *want\ [a-z\ ]\{0,15\}\ *of\ 
+\ free\ [a-z\ ]\{0,15\}\ *up\ 
+\ from\ [a-z\ ]\{0,15\}\ *here\ 
+\ from\ [a-z\ ]\{0,15\}\ *there\ 
+\ from\ [a-z\ ]\{0,15\}\ *under\ 
+\ gain\ [a-z\ ]\{0,15\}\ *over\ 
+\ game\ [a-z\ ]\{0,15\}\ *of\ 
+\ gate\ [a-z\ ]\{0,15\}\ *out\ 
+\ gear\ [a-z\ ]\{0,15\}\ *box\ 
+\ get\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *line\ 
+\ get\ [a-z\ ]\{0,15\}\ *about\ 
+\ get\ [a-z\ ]\{0,15\}\ *ahead\ [a-z\ ]\{0,15\}\ *of\ 
+\ get\ [a-z\ ]\{0,15\}\ *along\ [a-z\ ]\{0,15\}\ *with\ 
+\ get\ [a-z\ ]\{0,15\}\ *around\ 
+\ get\ [a-z\ ]\{0,15\}\ *at\ 
+\ get\ [a-z\ ]\{0,15\}\ *away\ 
+\ get\ [a-z\ ]\{0,15\}\ *back\ 
+\ get\ [a-z\ ]\{0,15\}\ *down\ [a-z\ ]\{0,15\}\ *to\ 
+\ get\ [a-z\ ]\{0,15\}\ *down\ 
+\ get\ [a-z\ ]\{0,15\}\ *hurt\ 
+\ get\ [a-z\ ]\{0,15\}\ *in\ 
+\ get\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *on\ 
+\ get\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *touch\ 
+\ get\ [a-z\ ]\{0,15\}\ *into\ 
+\ get\ [a-z\ ]\{0,15\}\ *off\ 
+\ get\ [a-z\ ]\{0,15\}\ *on\ 
+\ get\ [a-z\ ]\{0,15\}\ *out\ 
+\ get\ [a-z\ ]\{0,15\}\ *over\ 
+\ get\ [a-z\ ]\{0,15\}\ *set\ [a-z\ ]\{0,15\}\ *to\ 
+\ get\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *foot\ 
+\ get\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *hand\ 
+\ get\ [a-z\ ]\{0,15\}\ *through\ 
+\ get\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *know\ 
+\ get\ [a-z\ ]\{0,15\}\ *together\ 
+\ get\ [a-z\ ]\{0,15\}\ *up\ 
+\ get\ [a-z\ ]\{0,15\}\ *well\ 
+\ give\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *clue\ 
+\ give\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *lift\ 
+\ give\ [a-z\ ]\{0,15\}\ *account\ 
+\ give\ [a-z\ ]\{0,15\}\ *an\ [a-z\ ]\{0,15\}\ *edge\ 
+\ give\ [a-z\ ]\{0,15\}\ *an\ [a-z\ ]\{0,15\}\ *eye\ [a-z\ ]\{0,15\}\ *to\ 
+\ give\ [a-z\ ]\{0,15\}\ *away\ 
+\ give\ [a-z\ ]\{0,15\}\ *head\ 
+\ give\ [a-z\ ]\{0,15\}\ *off\ 
+\ give\ [a-z\ ]\{0,15\}\ *rise\ 
+\ give\ [a-z\ ]\{0,15\}\ *up\ 
+\ glee\ [a-z\ ]\{0,15\}\ *club\ 
+\ global\ [a-z\ ]\{0,15\}\ *reach\ 
+\ go\ [a-z\ ]\{0,15\}\ *abreast\ [a-z\ ]\{0,15\}\ *of\ 
+\ go\ [a-z\ ]\{0,15\}\ *ahead\ 
+\ go\ [a-z\ ]\{0,15\}\ *all\ [a-z\ ]\{0,15\}\ *out\ 
+\ go\ [a-z\ ]\{0,15\}\ *along\ 
+\ go\ [a-z\ ]\{0,15\}\ *around\ 
+\ go\ [a-z\ ]\{0,15\}\ *away\ 
+\ go\ [a-z\ ]\{0,15\}\ *back\ 
+\ go\ [a-z\ ]\{0,15\}\ *bad\ 
+\ go\ [a-z\ ]\{0,15\}\ *bail\ 
+\ go\ [a-z\ ]\{0,15\}\ *between\ 
+\ go\ [a-z\ ]\{0,15\}\ *beyond\ 
+\ go\ [a-z\ ]\{0,15\}\ *by\ 
+\ go\ [a-z\ ]\{0,15\}\ *down\ [a-z\ ]\{0,15\}\ *to\ 
+\ go\ [a-z\ ]\{0,15\}\ *in\ 
+\ go\ [a-z\ ]\{0,15\}\ *into\ 
+\ go\ [a-z\ ]\{0,15\}\ *mad\ 
+\ go\ [a-z\ ]\{0,15\}\ *off\ 
+\ go\ [a-z\ ]\{0,15\}\ *on\ 
+\ go\ [a-z\ ]\{0,15\}\ *out\ 
+\ go\ [a-z\ ]\{0,15\}\ *over\ [a-z\ ]\{0,15\}\ *to\ 
+\ go\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *bed\ 
+\ go\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *zero\ 
+\ go\ [a-z\ ]\{0,15\}\ *through\ 
+\ go\ [a-z\ ]\{0,15\}\ *up\ 
+\ go\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ go-no-go\ 
+\ gold\ [a-z\ ]\{0,15\}\ *leaf\ 
+\ good\ [a-z\ ]\{0,15\}\ *deal\ 
+\ good\ [a-z\ ]\{0,15\}\ *few\ 
+\ good\ [a-z\ ]\{0,15\}\ *now\ 
+\ good\ [a-z\ ]\{0,15\}\ *while\ 
+\ grasp\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *idea\ 
+\ great\ [a-z\ ]\{0,15\}\ *care\ 
+\ great\ [a-z\ ]\{0,15\}\ *while\ 
+\ grin\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *bear\ [a-z\ ]\{0,15\}\ *it\ 
+\ grind\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *bit\ 
+\ ground\ [a-z\ ]\{0,15\}\ *coffee\ 
+\ ground\ [a-z\ ]\{0,15\}\ *cover\ 
+\ ground\ [a-z\ ]\{0,15\}\ *floor\ 
+\ grow\ [a-z\ ]\{0,15\}\ *dark\ 
+\ grow\ [a-z\ ]\{0,15\}\ *up\ 
+\ guard\ [a-z\ ]\{0,15\}\ *against\ 
+\ hack\ [a-z\ ]\{0,15\}\ *on\ 
+\ hack\ [a-z\ ]\{0,15\}\ *together\ 
+\ half\ [a-z\ ]\{0,15\}\ *as\ [a-z\ ]\{0,15\}\ *much\ 
+\ half\ [a-z\ ]\{0,15\}\ *brother\ 
+\ half\ [a-z\ ]\{0,15\}\ *sister\ 
+\ ham\ [a-z\ ]\{0,15\}\ *radio\ 
+\ hang\ [a-z\ ]\{0,15\}\ *around\ 
+\ hang\ [a-z\ ]\{0,15\}\ *on\ 
+\ hang\ [a-z\ ]\{0,15\}\ *up\ 
+\ hand\ [a-z\ ]\{0,15\}\ *out\ 
+\ hand\ [a-z\ ]\{0,15\}\ *over\ 
+\ hand-to-hand\ 
+\ hang\ [a-z\ ]\{0,15\}\ *up\ 
+\ happy\ [a-z\ ]\{0,15\}\ *birthday\ 
+\ hardly\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *all\ 
+\ hardly\ [a-z\ ]\{0,15\}\ *ever\ 
+\ have\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *loss\ 
+\ have\ [a-z\ ]\{0,15\}\ *but\ [a-z\ ]\{0,15\}\ *to\ 
+\ have\ [a-z\ ]\{0,15\}\ *much\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *do\ 
+\ head\ [a-z\ ]\{0,15\}\ *cold\ 
+\ head\ [a-z\ ]\{0,15\}\ *wind\ 
+\ heaven\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *earth\ 
+\ heavy\ [a-z\ ]\{0,15\}\ *duty\ 
+\ heavy\ [a-z\ ]\{0,15\}\ *repair\ 
+\ help\ [a-z\ ]\{0,15\}\ *out\ 
+\ help\ [a-z\ ]\{0,15\}\ *with\ 
+\ high\ [a-z\ ]\{0,15\}\ *school\ 
+\ high\ [a-z\ ]\{0,15\}\ *sign\ 
+\ hit\ [a-z\ ]\{0,15\}\ *back\ 
+\ hit\ [a-z\ ]\{0,15\}\ *by\ 
+\ hit\ [a-z\ ]\{0,15\}\ *or\ [a-z\ ]\{0,15\}\ *miss\ 
+\ hit\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *road\ 
+\ hold\ [a-z\ ]\{0,15\}\ *all\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *cards\ 
+\ hold\ [a-z\ ]\{0,15\}\ *back\ 
+\ hold\ [a-z\ ]\{0,15\}\ *down\ 
+\ hold\ [a-z\ ]\{0,15\}\ *in\ 
+\ hold\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *check\ 
+\ hold\ [a-z\ ]\{0,15\}\ *it\ 
+\ hold\ [a-z\ ]\{0,15\}\ *on\ 
+\ hold\ [a-z\ ]\{0,15\}\ *out\ 
+\ hold\ [a-z\ ]\{0,15\}\ *over\ 
+\ hold\ [a-z\ ]\{0,15\}\ *that\ 
+\ hold\ [a-z\ ]\{0,15\}\ *up\ 
+\ hot\ [a-z\ ]\{0,15\}\ *dog\ 
+\ how\ [a-z\ ]\{0,15\}\ *are\ [a-z\ ]\{0,15\}\ *you\ 
+\ how\ [a-z\ ]\{0,15\}\ *come\ 
+\ how\ [a-z\ ]\{0,15\}\ *do\ [a-z\ ]\{0,15\}\ *you\ [a-z\ ]\{0,15\}\ *do\ 
+\ how\ [a-z\ ]\{0,15\}\ *long\ 
+\ how\ [a-z\ ]\{0,15\}\ *many\ 
+\ how\ [a-z\ ]\{0,15\}\ *much\ 
+\ hue\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *cry\ 
+\ hurry\ [a-z\ ]\{0,15\}\ *over\ 
+\ hurry\ [a-z\ ]\{0,15\}\ *up\ 
+\ I\ [a-z\ ]\{0,15\}\ *am\ [a-z\ ]\{0,15\}\ *fine\ 
+\ ice\ [a-z\ ]\{0,15\}\ *cream\ 
+\ idle\ [a-z\ ]\{0,15\}\ *attempt\ 
+\ if\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *only\ [a-z\ ]\{0,15\}\ *if\ 
+\ if\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *all\ 
+\ ill\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *easy\ 
+\ ill\ [a-z\ ]\{0,15\}\ *turn\ 
+\ improve\ [a-z\ ]\{0,15\}\ *away\ 
+\ in\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *broad\ [a-z\ ]\{0,15\}\ *manner\ 
+\ in\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *day\ [a-z\ ]\{0,15\}\ *or\ [a-z\ ]\{0,15\}\ *two\ 
+\ in\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *draw\ 
+\ in\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *little\ [a-z\ ]\{0,15\}\ *while\ 
+\ in\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *manner\ 
+\ in\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *sense\ 
+\ in\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *way\ 
+\ in\ [a-z\ ]\{0,15\}\ *about\ 
+\ in\ [a-z\ ]\{0,15\}\ *as\ [a-z\ ]\{0,15\}\ *much\ [a-z\ ]\{0,15\}\ *as\ 
+\ in\ [a-z\ ]\{0,15\}\ *behalf\ [a-z\ ]\{0,15\}\ *of\ 
+\ in\ [a-z\ ]\{0,15\}\ *brief\ 
+\ in\ [a-z\ ]\{0,15\}\ *error\ 
+\ in\ [a-z\ ]\{0,15\}\ *fact\ 
+\ in\ [a-z\ ]\{0,15\}\ *front\ [a-z\ ]\{0,15\}\ *of\ 
+\ in\ [a-z\ ]\{0,15\}\ *itself\ 
+\ in\ [a-z\ ]\{0,15\}\ *nature\ 
+\ in\ [a-z\ ]\{0,15\}\ *no\ [a-z\ ]\{0,15\}\ *time\ 
+\ in\ [a-z\ ]\{0,15\}\ *no\ [a-z\ ]\{0,15\}\ *way\ 
+\ in\ [a-z\ ]\{0,15\}\ *place\ [a-z\ ]\{0,15\}\ *of\ 
+\ in\ [a-z\ ]\{0,15\}\ *short\ 
+\ in\ [a-z\ ]\{0,15\}\ *so\ [a-z\ ]\{0,15\}\ *far\ [a-z\ ]\{0,15\}\ *as\ 
+\ in\ [a-z\ ]\{0,15\}\ *such\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *way\ 
+\ in\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *face\ 
+\ in\ [a-z\ ]\{0,15\}\ *this\ [a-z\ ]\{0,15\}\ *way\ 
+\ in\ [a-z\ ]\{0,15\}\ *vain\ 
+\ in\ [a-z\ ]\{0,15\}\ *what\ [a-z\ ]\{0,15\}\ *way\ 
+\ initial\ [a-z\ ]\{0,15\}\ *lot\ 
+\ into\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *name\ [a-z\ ]\{0,15\}\ *of\ 
+\ is,\ [a-z\ ]\{0,15\}\ *that\ 
+\ it\ [a-z\ ]\{0,15\}\ *is\ [a-z\ ]\{0,15\}\ *best\ [a-z\ ]\{0,15\}\ *to\ 
+\ it\ [a-z\ ]\{0,15\}\ *pays\ 
+\ jazz\ [a-z\ ]\{0,15\}\ *up\ 
+\ job\ [a-z\ ]\{0,15\}\ *title\ 
+\ jump\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *conclusions\ 
+\ jump\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *bait\ 
+\ jump\ [a-z\ ]\{0,15\}\ *down\ 
+\ jump\ [a-z\ ]\{0,15\}\ *on\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *bandwagon\ 
+\ jump\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *track\ 
+\ just\ [a-z\ ]\{0,15\}\ *as\ 
+\ just\ [a-z\ ]\{0,15\}\ *so\ 
+\ just\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *same\ 
+\ just\ [a-z\ ]\{0,15\}\ *when\ 
+\ keen\ [a-z\ ]\{0,15\}\ *on\ 
+\ keep\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *check\ [a-z\ ]\{0,15\}\ *on\ 
+\ keep\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *diary\ 
+\ keep\ [a-z\ ]\{0,15\}\ *abreast\ [a-z\ ]\{0,15\}\ *of\ 
+\ keep\ [a-z\ ]\{0,15\}\ *alert\ 
+\ keep\ [a-z\ ]\{0,15\}\ *cool\ 
+\ keep\ [a-z\ ]\{0,15\}\ *down\ 
+\ keep\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *check\ 
+\ keep\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *mind\ 
+\ keep\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *sight\ 
+\ keep\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *stock\ 
+\ keep\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *touch\ 
+\ keep\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *view\ 
+\ keep\ [a-z\ ]\{0,15\}\ *on\ 
+\ keep\ [a-z\ ]\{0,15\}\ *open\ 
+\ keep\ [a-z\ ]\{0,15\}\ *out\ [a-z\ ]\{0,15\}\ *of\ 
+\ keep\ [a-z\ ]\{0,15\}\ *pace\ 
+\ keep\ [a-z\ ]\{0,15\}\ *track\ 
+\ keep\ [a-z\ ]\{0,15\}\ *up\ 
+\ key\ [a-z\ ]\{0,15\}\ *off\ 
+\ key\ [a-z\ ]\{0,15\}\ *on\ 
+\ kick\ [a-z\ ]\{0,15\}\ *off\ 
+\ knock\ [a-z\ ]\{0,15\}\ *down\ 
+\ knock\ [a-z\ ]\{0,15\}\ *off\ 
+\ knock\ [a-z\ ]\{0,15\}\ *out\ 
+\ lap\ [a-z\ ]\{0,15\}\ *dog\ 
+\ large\ [a-z\ ]\{0,15\}\ *order\ 
+\ last\ [a-z\ ]\{0,15\}\ *but\ [a-z\ ]\{0,15\}\ *not\ [a-z\ ]\{0,15\}\ *least\ 
+\ last\ [a-z\ ]\{0,15\}\ *but\ [a-z\ ]\{0,15\}\ *one\ 
+\ lay\ [a-z\ ]\{0,15\}\ *aside\ 
+\ lay\ [a-z\ ]\{0,15\}\ *down\ 
+\ lay\ [a-z\ ]\{0,15\}\ *eyes\ 
+\ lay\ [a-z\ ]\{0,15\}\ *off\ 
+\ lead\ [a-z\ ]\{0,15\}\ *astray\ 
+\ lead\ [a-z\ ]\{0,15\}\ *away\ 
+\ lead\ [a-z\ ]\{0,15\}\ *into\ [a-z\ ]\{0,15\}\ *error\ 
+\ lead\ [a-z\ ]\{0,15\}\ *off\ 
+\ lead\ [a-z\ ]\{0,15\}\ *time\ 
+\ lean\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *clean\ 
+\ leave\ [a-z\ ]\{0,15\}\ *aside\ 
+\ leave\ [a-z\ ]\{0,15\}\ *behind\ 
+\ leave\ [a-z\ ]\{0,15\}\ *off\ 
+\ leave\ [a-z\ ]\{0,15\}\ *out\ 
+\ leave\ [a-z\ ]\{0,15\}\ *over\ 
+\ lend\ [a-z\ ]\{0,15\}\ *itself\ [a-z\ ]\{0,15\}\ *to\ 
+\ let\ [a-z\ ]\{0,15\}\ *down\ 
+\ let\ [a-z\ ]\{0,15\}\ *go\ 
+\ let\ [a-z\ ]\{0,15\}\ *in\ 
+\ let\ [a-z\ ]\{0,15\}\ *in\ [a-z\ ]\{0,15\}\ *on\ 
+\ let\ [a-z\ ]\{0,15\}\ *out\ 
+\ lie\ [a-z\ ]\{0,15\}\ *down\ 
+\ like\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *book\ 
+\ line\ [a-z\ ]\{0,15\}\ *up\ 
+\ lit\ [a-z\ ]\{0,15\}\ *out\ [a-z\ ]\{0,15\}\ *for\ 
+\ lock\ [a-z\ ]\{0,15\}\ *away\ 
+\ lock\ [a-z\ ]\{0,15\}\ *up\ 
+\ long\ [a-z\ ]\{0,15\}\ *for\ 
+\ look\ [a-z\ ]\{0,15\}\ *about\ 
+\ look\ [a-z\ ]\{0,15\}\ *after\ 
+\ look\ [a-z\ ]\{0,15\}\ *as\ 
+\ look\ [a-z\ ]\{0,15\}\ *back\ 
+\ look\ [a-z\ ]\{0,15\}\ *down\ 
+\ look\ [a-z\ ]\{0,15\}\ *for\ 
+\ look\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *help\ 
+\ look\ [a-z\ ]\{0,15\}\ *forvard\ 
+\ look\ [a-z\ ]\{0,15\}\ *like\ 
+\ look\ [a-z\ ]\{0,15\}\ *on\ 
+\ look\ [a-z\ ]\{0,15\}\ *out\ 
+\ look\ [a-z\ ]\{0,15\}\ *over\ 
+\ look\ [a-z\ ]\{0,15\}\ *upon\ 
+\ lose\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *round\ 
+\ lost\ [a-z\ ]\{0,15\}\ *in\ 
+\ made\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *with\ 
+\ major\ [a-z\ ]\{0,15\}\ *discount\ 
+\ make\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *bet\ 
+\ make\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *date\ 
+\ make\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *deal\ 
+\ make\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *vow\ 
+\ make\ [a-z\ ]\{0,15\}\ *clear\ 
+\ make\ [a-z\ ]\{0,15\}\ *free\ 
+\ make\ [a-z\ ]\{0,15\}\ *fun\ 
+\ make\ [a-z\ ]\{0,15\}\ *good\ 
+\ make\ [a-z\ ]\{0,15\}\ *it\ [a-z\ ]\{0,15\}\ *clear\ 
+\ make\ [a-z\ ]\{0,15\}\ *love\ [a-z\ ]\{0,15\}\ *to\ 
+\ make\ [a-z\ ]\{0,15\}\ *out\ 
+\ make\ [a-z\ ]\{0,15\}\ *plain\ 
+\ make\ [a-z\ ]\{0,15\}\ *room\ 
+\ make\ [a-z\ ]\{0,15\}\ *up\ 
+\ make-up\ 
+\ man\ [a-z\ ]\{0,15\}\ *on\ [a-z\ ]\{0,15\}\ *duty\ 
+\ many\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *time\ 
+\ mark\ [a-z\ ]\{0,15\}\ *down\ 
+\ mark\ [a-z\ ]\{0,15\}\ *off\ 
+\ mark\ [a-z\ ]\{0,15\}\ *up\ 
+\ mean\ [a-z\ ]\{0,15\}\ *life\ 
+\ mess\ [a-z\ ]\{0,15\}\ *up\ 
+\ miss\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *best\ 
+\ mix\ [a-z\ ]\{0,15\}\ *up\ 
+\ money\ [a-z\ ]\{0,15\}\ *box\ 
+\ monkey\ [a-z\ ]\{0,15\}\ *business\ 
+\ more\ [a-z\ ]\{0,15\}\ *accurate\ 
+\ more\ [a-z\ ]\{0,15\}\ *like\ 
+\ more\ [a-z\ ]\{0,15\}\ *so\ 
+\ morning\ [a-z\ ]\{0,15\}\ *coat\ 
+\ most\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *all\ 
+\ most\ [a-z\ ]\{0,15\}\ *often\ 
+\ move\ [a-z\ ]\{0,15\}\ *down\ 
+\ move\ [a-z\ ]\{0,15\}\ *in\ 
+\ move\ [a-z\ ]\{0,15\}\ *on\ 
+\ move\ [a-z\ ]\{0,15\}\ *out\ 
+\ move\ [a-z\ ]\{0,15\}\ *over\ [a-z\ ]\{0,15\}\ *to\ 
+\ move\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ much\ [a-z\ ]\{0,15\}\ *of\ 
+\ much\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *same\ 
+\ nagging\ [a-z\ ]\{0,15\}\ *fear\ 
+\ nail\ [a-z\ ]\{0,15\}\ *down\ 
+\ naked\ [a-z\ ]\{0,15\}\ *eye\ 
+\ narrow\ [a-z\ ]\{0,15\}\ *down\ 
+\ navy\ [a-z\ ]\{0,15\}\ *blue\ 
+\ near\ [a-z\ ]\{0,15\}\ *by\ 
+\ needle\ [a-z\ ]\{0,15\}\ *eye\ 
+\ neither\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *or\ [a-z\ ]\{0,15\}\ *against\ 
+\ next\ [a-z\ ]\{0,15\}\ *door\ 
+\ nip\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *tuck\ 
+\ no\ [a-z\ ]\{0,15\}\ *doubt\ 
+\ no\ [a-z\ ]\{0,15\}\ *way\ 
+\ none\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *all\ 
+\ not\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *bit\ 
+\ not\ [a-z\ ]\{0,15\}\ *after\ 
+\ not\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *all\ 
+\ now\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *again\ 
+\ oath\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *office\ 
+\ odd\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *even\ 
+\ odd\ [a-z\ ]\{0,15\}\ *job\ 
+\ of\ [a-z\ ]\{0,15\}\ *course\ 
+\ of\ [a-z\ ]\{0,15\}\ *how\ 
+\ of\ [a-z\ ]\{0,15\}\ *late\ 
+\ of\ [a-z\ ]\{0,15\}\ *note\ 
+\ of\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *same\ 
+\ off\ [a-z\ ]\{0,15\}\ *day\ 
+\ off\ [a-z\ ]\{0,15\}\ *hand\ 
+\ old\ [a-z\ ]\{0,15\}\ *hand\ 
+\ on\ [a-z\ ]\{0,15\}\ *account\ [a-z\ ]\{0,15\}\ *of\ 
+\ on\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *again\ 
+\ on\ [a-z\ ]\{0,15\}\ *foot\ 
+\ on\ [a-z\ ]\{0,15\}\ *how\ [a-z\ ]\{0,15\}\ *to\ 
+\ on\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *alert\ 
+\ on\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *eve\ 
+\ on\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *part\ [a-z\ ]\{0,15\}\ *of\ 
+\ once\ [a-z\ ]\{0,15\}\ *more\ 
+\ one\ [a-z\ ]\{0,15\}\ *another\ 
+\ one\ [a-z\ ]\{0,15\}\ *at\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *time\ 
+\ one\ [a-z\ ]\{0,15\}\ *by\ [a-z\ ]\{0,15\}\ *one\ 
+\ one\ [a-z\ ]\{0,15\}\ *more\ 
+\ or\ [a-z\ ]\{0,15\}\ *else\ 
+\ or\ [a-z\ ]\{0,15\}\ *so\ 
+\ other\ [a-z\ ]\{0,15\}\ *day\ 
+\ other\ [a-z\ ]\{0,15\}\ *than\ 
+\ other\ [a-z\ ]\{0,15\}\ *way\ [a-z\ ]\{0,15\}\ *around\ 
+\ out\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *out\ 
+\ out\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *danger\ 
+\ out\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *date\ 
+\ out\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *way\ 
+\ over\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *above\ 
+\ over\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *over\ 
+\ over\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *left\ 
+\ pack\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *lies\ 
+\ pair\ [a-z\ ]\{0,15\}\ *off\ 
+\ palm\ [a-z\ ]\{0,15\}\ *off\ 
+\ pan\ [a-z\ ]\{0,15\}\ *out\ 
+\ part\ [a-z\ ]\{0,15\}\ *time\ 
+\ pass\ [a-z\ ]\{0,15\}\ *ahead\ 
+\ pass\ [a-z\ ]\{0,15\}\ *away\ 
+\ pass\ [a-z\ ]\{0,15\}\ *off\ 
+\ pass\ [a-z\ ]\{0,15\}\ *out\ 
+\ patch\ [a-z\ ]\{0,15\}\ *up\ 
+\ pay\ [a-z\ ]\{0,15\}\ *off\ 
+\ pen\ [a-z\ ]\{0,15\}\ *name\ 
+\ pen\ [a-z\ ]\{0,15\}\ *pal\ 
+\ pick\ [a-z\ ]\{0,15\}\ *out\ 
+\ pick\ [a-z\ ]\{0,15\}\ *up\ 
+\ pipe\ [a-z\ ]\{0,15\}\ *down\ 
+\ pipe\ [a-z\ ]\{0,15\}\ *up\ 
+\ place\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *premium\ 
+\ place\ [a-z\ ]\{0,15\}\ *name\ 
+\ play\ [a-z\ ]\{0,15\}\ *safe\ 
+\ play\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *part\ 
+\ point\ [a-z\ ]\{0,15\}\ *out\ 
+\ pop\ [a-z\ ]\{0,15\}\ *in\ 
+\ pop\ [a-z\ ]\{0,15\}\ *out\ 
+\ pot\ [a-z\ ]\{0,15\}\ *shot\ 
+\ praise\ [a-z\ ]\{0,15\}\ *be\ [a-z\ ]\{0,15\}\ *to\ [a-z\ ]\{0,15\}\ *god\ 
+\ present-day\ 
+\ press\ [a-z\ ]\{0,15\}\ *for\ [a-z\ ]\{0,15\}\ *more\ 
+\ pretty\ [a-z\ ]\{0,15\}\ *up\ 
+\ prove\ [a-z\ ]\{0,15\}\ *out\ 
+\ pry\ [a-z\ ]\{0,15\}\ *into\ 
+\ pull\ [a-z\ ]\{0,15\}\ *away\ 
+\ pull\ [a-z\ ]\{0,15\}\ *down\ 
+\ pull\ [a-z\ ]\{0,15\}\ *off\ 
+\ pull\ [a-z\ ]\{0,15\}\ *on\ 
+\ pull\ [a-z\ ]\{0,15\}\ *out\ 
+\ pull\ [a-z\ ]\{0,15\}\ *up\ 
+\ put\ [a-z\ ]\{0,15\}\ *around\ 
+\ put\ [a-z\ ]\{0,15\}\ *away\ 
+\ put\ [a-z\ ]\{0,15\}\ *down\ 
+\ put\ [a-z\ ]\{0,15\}\ *forward\ 
+\ put\ [a-z\ ]\{0,15\}\ *in\ 
+\ put\ [a-z\ ]\{0,15\}\ *into\ [a-z\ ]\{0,15\}\ *use\ 
+\ put\ [a-z\ ]\{0,15\}\ *off\ 
+\ put\ [a-z\ ]\{0,15\}\ *on\ 
+\ put\ [a-z\ ]\{0,15\}\ *out\ 
+\ put\ [a-z\ ]\{0,15\}\ *over\ 
+\ put\ [a-z\ ]\{0,15\}\ *up\ 
+\ queen\ [a-z\ ]\{0,15\}\ *bee\ 
+\ question\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *decision\ 
+\ queue\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *for\ 
+\ quick\ [a-z\ ]\{0,15\}\ *example\ 
+\ quick\ [a-z\ ]\{0,15\}\ *guide\ 
+\ quite\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *bit\ 
+\ quite\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *few\ 
+\ quite\ [a-z\ ]\{0,15\}\ *as\ [a-z\ ]\{0,15\}\ *much\ 
+\ rabbits\ [a-z\ ]\{0,15\}\ *foot\ 
+\ rain\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *shine\ 
+\ rake\ [a-z\ ]\{0,15\}\ *up\ 
+\ rally\ [a-z\ ]\{0,15\}\ *above\ 
+\ range\ [a-z\ ]\{0,15\}\ *over\ 
+\ read\ [a-z\ ]\{0,15\}\ *out\ 
+\ real\ [a-z\ ]\{0,15\}\ *estate\ 
+\ reason\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *fear\ [a-z\ ]\{0,15\}\ *away\ 
+\ red\ [a-z\ ]\{0,15\}\ *tape\ 
+\ reel\ [a-z\ ]\{0,15\}\ *off\ 
+\ relay\ [a-z\ ]\{0,15\}\ *race\ 
+\ rest\ [a-z\ ]\{0,15\}\ *upon\ 
+\ return\ [a-z\ ]\{0,15\}\ *trip\ 
+\ ride\ [a-z\ ]\{0,15\}\ *away\ 
+\ right\ [a-z\ ]\{0,15\}\ *away\ 
+\ ring\ [a-z\ ]\{0,15\}\ *off\ 
+\ ring\ [a-z\ ]\{0,15\}\ *out\ 
+\ ring\ [a-z\ ]\{0,15\}\ *up\ 
+\ roll\ [a-z\ ]\{0,15\}\ *call\ 
+\ roll\ [a-z\ ]\{0,15\}\ *down\ 
+\ roll\ [a-z\ ]\{0,15\}\ *up\ 
+\ root\ [a-z\ ]\{0,15\}\ *for\ 
+\ root\ [a-z\ ]\{0,15\}\ *out\ 
+\ rough\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *ready\ 
+\ round\ [a-z\ ]\{0,15\}\ *off\ 
+\ rule\ [a-z\ ]\{0,15\}\ *out\ 
+\ run\ [a-z\ ]\{0,15\}\ *across\ 
+\ run\ [a-z\ ]\{0,15\}\ *away\ 
+\ run\ [a-z\ ]\{0,15\}\ *by\ 
+\ run\ [a-z\ ]\{0,15\}\ *down\ 
+\ run\ [a-z\ ]\{0,15\}\ *into\ 
+\ run\ [a-z\ ]\{0,15\}\ *low\ 
+\ run\ [a-z\ ]\{0,15\}\ *off\ 
+\ run\ [a-z\ ]\{0,15\}\ *out\ 
+\ run\ [a-z\ ]\{0,15\}\ *over\ 
+\ run\ [a-z\ ]\{0,15\}\ *up\ [a-z\ ]\{0,15\}\ *to\ 
+\ safe\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *sound\ 
+\ same\ [a-z\ ]\{0,15\}\ *that\ 
+\ save\ [a-z\ ]\{0,15\}\ *for\ 
+\ second\ [a-z\ ]\{0,15\}\ *hand\ 
+\ see\ [a-z\ ]\{0,15\}\ *about\ 
+\ see\ [a-z\ ]\{0,15\}\ *here\ 
+\ see\ [a-z\ ]\{0,15\}\ *last\ [a-z\ ]\{0,15\}\ *of\ 
+\ sell\ [a-z\ ]\{0,15\}\ *off\ 
+\ sell\ [a-z\ ]\{0,15\}\ *out\ 
+\ send\ [a-z\ ]\{0,15\}\ *forth\ 
+\ serve\ [a-z\ ]\{0,15\}\ *upon\ 
+\ set\ [a-z\ ]\{0,15\}\ *apart\ 
+\ set\ [a-z\ ]\{0,15\}\ *aside\ 
+\ set\ [a-z\ ]\{0,15\}\ *down\ 
+\ set\ [a-z\ ]\{0,15\}\ *forth\ 
+\ set\ [a-z\ ]\{0,15\}\ *forward\ 
+\ set\ [a-z\ ]\{0,15\}\ *free\ 
+\ set\ [a-z\ ]\{0,15\}\ *up\ 
+\ shake\ [a-z\ ]\{0,15\}\ *down\ 
+\ shake\ [a-z\ ]\{0,15\}\ *off\ 
+\ shake\ [a-z\ ]\{0,15\}\ *up\ 
+\ shop\ [a-z\ ]\{0,15\}\ *window\ 
+\ show\ [a-z\ ]\{0,15\}\ *off\ 
+\ show\ [a-z\ ]\{0,15\}\ *up\ 
+\ shut\ [a-z\ ]\{0,15\}\ *down\ 
+\ shut\ [a-z\ ]\{0,15\}\ *up\ 
+\ sit\ [a-z\ ]\{0,15\}\ *back\ 
+\ sit\ [a-z\ ]\{0,15\}\ *down\ 
+\ sit\ [a-z\ ]\{0,15\}\ *out\ 
+\ sit\ [a-z\ ]\{0,15\}\ *through\ 
+\ slim\ [a-z\ ]\{0,15\}\ *down\ 
+\ slip\ [a-z\ ]\{0,15\}\ *angle\ 
+\ smart\ [a-z\ ]\{0,15\}\ *ass\ 
+\ snap\ [a-z\ ]\{0,15\}\ *back\ 
+\ snow\ [a-z\ ]\{0,15\}\ *under\ 
+\ so\ [a-z\ ]\{0,15\}\ *as\ 
+\ so\ [a-z\ ]\{0,15\}\ *far\ 
+\ so\ [a-z\ ]\{0,15\}\ *far\ [a-z\ ]\{0,15\}\ *as\ 
+\ so\ [a-z\ ]\{0,15\}\ *on\ 
+\ so\ [a-z\ ]\{0,15\}\ *so\ 
+\ so\ [a-z\ ]\{0,15\}\ *what\ 
+\ some\ [a-z\ ]\{0,15\}\ *few\ 
+\ speak\ [a-z\ ]\{0,15\}\ *out\ 
+\ speak\ [a-z\ ]\{0,15\}\ *up\ 
+\ split\ [a-z\ ]\{0,15\}\ *up\ 
+\ stand\ [a-z\ ]\{0,15\}\ *back\ 
+\ stand\ [a-z\ ]\{0,15\}\ *by\ 
+\ stand\ [a-z\ ]\{0,15\}\ *for\ 
+\ stand\ [a-z\ ]\{0,15\}\ *out\ 
+\ stand\ [a-z\ ]\{0,15\}\ *over\ 
+\ stand\ [a-z\ ]\{0,15\}\ *up\ 
+\ stay\ [a-z\ ]\{0,15\}\ *away\ 
+\ stay\ [a-z\ ]\{0,15\}\ *out\ 
+\ stay\ [a-z\ ]\{0,15\}\ *up\ 
+\ step\ [a-z\ ]\{0,15\}\ *aside\ 
+\ step\ [a-z\ ]\{0,15\}\ *back\ 
+\ step\ [a-z\ ]\{0,15\}\ *by\ [a-z\ ]\{0,15\}\ *step\ 
+\ step\ [a-z\ ]\{0,15\}\ *down\ 
+\ step\ [a-z\ ]\{0,15\}\ *over\ 
+\ step\ [a-z\ ]\{0,15\}\ *up\ 
+\ stick\ [a-z\ ]\{0,15\}\ *by\ 
+\ stick\ [a-z\ ]\{0,15\}\ *out\ 
+\ stick\ [a-z\ ]\{0,15\}\ *up\ 
+\ study\ [a-z\ ]\{0,15\}\ *for\ 
+\ such\ [a-z\ ]\{0,15\}\ *as\ 
+\ such\ [a-z\ ]\{0,15\}\ *that\ 
+\ swear\ [a-z\ ]\{0,15\}\ *in\ 
+\ switch\ [a-z\ ]\{0,15\}\ *off\ 
+\ switch\ [a-z\ ]\{0,15\}\ *on\ 
+\ take\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *look\ [a-z\ ]\{0,15\}\ *at\ 
+\ take\ [a-z\ ]\{0,15\}\ *a\ [a-z\ ]\{0,15\}\ *task\ 
+\ take\ [a-z\ ]\{0,15\}\ *away\ 
+\ take\ [a-z\ ]\{0,15\}\ *back\ 
+\ take\ [a-z\ ]\{0,15\}\ *care\ [a-z\ ]\{0,15\}\ *of\ 
+\ take\ [a-z\ ]\{0,15\}\ *down\ 
+\ take\ [a-z\ ]\{0,15\}\ *off\ 
+\ take\ [a-z\ ]\{0,15\}\ *out\ 
+\ take\ [a-z\ ]\{0,15\}\ *over\ 
+\ take\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *time\ 
+\ take\ [a-z\ ]\{0,15\}\ *up\ 
+\ talk\ [a-z\ ]\{0,15\}\ *turkey\ 
+\ tank\ [a-z\ ]\{0,15\}\ *car\ 
+\ tear\ [a-z\ ]\{0,15\}\ *away\ 
+\ tear\ [a-z\ ]\{0,15\}\ *down\ 
+\ tear\ [a-z\ ]\{0,15\}\ *off\ 
+\ tell\ [a-z\ ]\{0,15\}\ *apart\ 
+\ tell\ [a-z\ ]\{0,15\}\ *off\ 
+\ thank\ [a-z\ ]\{0,15\}\ *you\ [a-z\ ]\{0,15\}\ *very\ [a-z\ ]\{0,15\}\ *much\ 
+\ that\ [a-z\ ]\{0,15\}\ *is\ [a-z\ ]\{0,15\}\ *why\ 
+\ then\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *there\ 
+\ think\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *as\ 
+\ throw\ [a-z\ ]\{0,15\}\ *aside\ 
+\ throw\ [a-z\ ]\{0,15\}\ *away\ 
+\ throw\ [a-z\ ]\{0,15\}\ *off\ 
+\ throw\ [a-z\ ]\{0,15\}\ *open\ 
+\ throw\ [a-z\ ]\{0,15\}\ *out\ 
+\ tips\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *tricks\ 
+\ trial\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *error\ 
+\ try\ [a-z\ ]\{0,15\}\ *back\ 
+\ tru\ [a-z\ ]\{0,15\}\ *out\ 
+\ turn\ [a-z\ ]\{0,15\}\ *around\ 
+\ turn\ [a-z\ ]\{0,15\}\ *aside\ 
+\ turn\ [a-z\ ]\{0,15\}\ *away\ 
+\ turn\ [a-z\ ]\{0,15\}\ *down\ 
+\ turn\ [a-z\ ]\{0,15\}\ *off\ 
+\ turn\ [a-z\ ]\{0,15\}\ *round\ 
+\ turn\ [a-z\ ]\{0,15\}\ *up\ 
+\ ugly\ [a-z\ ]\{0,15\}\ *duckling\ 
+\ until\ [a-z\ ]\{0,15\}\ *after\ 
+\ until\ [a-z\ ]\{0,15\}\ *now\ 
+\ until\ [a-z\ ]\{0,15\}\ *then\ 
+\ up\ [a-z\ ]\{0,15\}\ *against\ [a-z\ ]\{0,15\}\ *it\ 
+\ up\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *about\ 
+\ use\ [a-z\ ]\{0,15\}\ *up\ 
+\ use\ [a-z\ ]\{0,15\}\ *value\ 
+\ vacant\ [a-z\ ]\{0,15\}\ *lot\ 
+\ very\ [a-z\ ]\{0,15\}\ *basic\ 
+\ very\ [a-z\ ]\{0,15\}\ *much\ 
+\ very\ [a-z\ ]\{0,15\}\ *well\ 
+\ wake\ [a-z\ ]\{0,15\}\ *up\ 
+\ walk\ [a-z\ ]\{0,15\}\ *around\ 
+\ walk\ [a-z\ ]\{0,15\}\ *away\ 
+\ walk\ [a-z\ ]\{0,15\}\ *back\ 
+\ walk\ [a-z\ ]\{0,15\}\ *down\ 
+\ walk\ [a-z\ ]\{0,15\}\ *in\ 
+\ walk\ [a-z\ ]\{0,15\}\ *off\ 
+\ walk\ [a-z\ ]\{0,15\}\ *out\ 
+\ walk\ [a-z\ ]\{0,15\}\ *over\ 
+\ walk\ [a-z\ ]\{0,15\}\ *up\ 
+\ want\ [a-z\ ]\{0,15\}\ *ad\ 
+\ war\ [a-z\ ]\{0,15\}\ *cry\ 
+\ watch\ [a-z\ ]\{0,15\}\ *over\ 
+\ way\ [a-z\ ]\{0,15\}\ *out\ 
+\ way\ [a-z\ ]\{0,15\}\ *up\ 
+\ wear\ [a-z\ ]\{0,15\}\ *out\ 
+\ well\ [a-z\ ]\{0,15\}\ *above\ 
+\ well\ [a-z\ ]\{0,15\}\ *ahead\ [a-z\ ]\{0,15\}\ *off\ 
+\ well\ [a-z\ ]\{0,15\}\ *over\ 
+\ what\ [a-z\ ]\{0,15\}\ *about\ 
+\ witch\ [a-z\ ]\{0,15\}\ *doctor\ 
+\ work\ [a-z\ ]\{0,15\}\ *away\ 
+\ work\ [a-z\ ]\{0,15\}\ *out\ 
+\ wtite\ [a-z\ ]\{0,15\}\ *down\ 
+\ write\ [a-z\ ]\{0,15\}\ *off\ 
+\ write\ [a-z\ ]\{0,15\}\ *out\ 
+\ yard\ [a-z\ ]\{0,15\}\ *sale\ 
+\ year\ [a-z\ ]\{0,15\}\ *term\ 
+\ yeild\ [a-z\ ]\{0,15\}\ *the\ [a-z\ ]\{0,15\}\ *right\ [a-z\ ]\{0,15\}\ *of\ [a-z\ ]\{0,15\}\ *way\ 
+\ yes-no\ 
+\ young\ [a-z\ ]\{0,15\}\ *and\ [a-z\ ]\{0,15\}\ *old\ [a-z\ ]\{0,15\}\ *alike\ 
+\ zero\ [a-z\ ]\{0,15\}\ *gravity\ 
+\ zero\ [a-z\ ]\{0,15\}\ *hour\ 
+\ zero\ [a-z\ ]\{0,15\}\ *in\ 
+\ zero\ [a-z\ ]\{0,15\}\ *out\ 
+\ zone\ [a-z\ ]\{0,15\}\ *out\ 
+\ zoom\ [a-z\ ]\{0,15\}\ *in\ 
+\ zoom\ [a-z\ ]\{0,15\}\ *off\ 
+\ zoom\ [a-z\ ]\{0,15\}\ *out\ 
+\ \ 
